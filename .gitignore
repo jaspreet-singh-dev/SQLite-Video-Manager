@@ -1,0 +1,21 @@
+# SQLite database
+
+videos.db
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Virtual environments
+
+venv/
+.env
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
